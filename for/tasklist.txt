@@ -1,3 +1,0 @@
-Change LES flag in default makefile to FALSE
-John's test should probably work if grid_def, grid_def.mpi and grid_def.all are just copied in the 'for' folder
-and the program is compiled. Plus this test is small enough to be run in an interactive job.
