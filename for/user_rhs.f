@@ -266,7 +266,7 @@ C Add some forcing to the system to keep the Batchelor scale fixed
 
 ! Set the amplitude of the sponge
       SPONGE_AMP=10.d0
-      DELTA = 14.28
+      DELTA = 5.d0
 ! Set the top of the sponge layer in physical units
       L_bottom=-LY/2
       L_top=LY/2
@@ -392,7 +392,7 @@ C Add some forcing to the system to keep the Batchelor scale fixed
 
 ! Set the amplitude of the sponge
       SPONGE_AMP=10.d0
-      DELTA = 14.28
+      DELTA = 5.0
 ! Set the top of the sponge layer in physical units
       L_bottom=-LY/2
       L_top=LY/2
