@@ -6,7 +6,7 @@ C   FLAVOR        VERSION
 C   USE_MPI       USE_LES   (note, also change these flags in Makefile):
     .TRUE.       .FALSE.               
 C Parameters:     NU,        BETA,      LX,      LY,     LZ
-                  0.0005     1.0        28.56     66.33727    14.28   
+                  0.0005     1.0     12.56637     19.18393     6.2832  
 C Vertical viscosity scale factor NU_V_SCALE (NU_V=NU*NU_V_SCALE)
                   1.0  
 C Method:     NUM_PER_DIR, CREATE_NEW_FLOW
